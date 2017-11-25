@@ -25,7 +25,7 @@ SECRET_KEY = 'g0+mcxr#5svugp*itv$2oe@4n_i@g-7*y47ak0_yl+=w#+)5$_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [u'touch095516.pythonanywhere.com/search-post']
+ALLOWED_HOSTS = [u'touch095516.pythonanywhere.com']
 
 
 # Application definition
